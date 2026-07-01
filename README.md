@@ -1,4 +1,4 @@
-# Understanding circadian gene expression through Machine Learning
+# ENTENDIENDO EL RELOJ CIRCADIANO EN BACILLUS SUBTILIS A TRAVÉS DE MACHINE LEARNING
 
 TFG de Nerea Navarro. Análisis del entrainment circadiano en Bacillus subtilis (cepa ytvA).
 
