@@ -1,4 +1,4 @@
-# ENTENDIENDO EL RELOJ CIRCADIANO EN BACILLUS SUBTILIS A TRAVÉS DE MACHINE LEARNING
+# Entendiendo el reloj circadiano en _Bacillus Subtilis_ a través de _Machine Learning_
 
 TFG de Nerea Navarro. Análisis del entrainment circadiano en Bacillus subtilis (cepa ytvA).
 
