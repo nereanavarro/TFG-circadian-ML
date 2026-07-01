@@ -1,13 +1,13 @@
 # Entendiendo el reloj circadiano en _Bacillus Subtilis_ a través de _Machine Learning_
 
-TFG de Nerea Navarro. Análisis del entrainment circadiano en Bacillus subtilis (cepa ytvA).
+TFG de Nerea Navarro. Análisis del entrainment circadiano en Bacillus subtilis 168.
 
 ## Aviso importante: caso de uso, sin datos
 
 Este repositorio es un **caso de uso**: documenta la metodología y presenta los
 resultados obtenidos, pero **no incluye ningún dato** con el que se ha trabajado
-(ni datos crudos de luminiscencia, ni datasets procesados/intermedios en Excel).
-Esta es una restriccion impuesta por el director del proyecto.
+(ni datos crudos de luminiscencia, ni datasets procesados/intermedios en Excel)
+para conservar la confidencialidad del proyecto en curso de la LMU.
 
 Como consecuencia, **los notebooks no se pueden ejecutar de principio a fin por
 terceros**: el código se publica para transparencia metodológica (qué se hizo y
