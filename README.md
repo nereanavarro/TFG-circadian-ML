@@ -35,16 +35,16 @@ informe narrativo sin cifras (`results/informe.md`).
 
 ## Metodología (resumen)
 
-1. **01 — Extraccion de parametros**: consolida los experimentos de
+1. **— Extraccion de parametros**: consolida los experimentos de
    luminiscencia en un dataset unico, calculando parametros de picos,
    tendencia, wavelet, derivadas, fase de coseno y ritmicidad estadistica
    (MetaCycle/R: JTK_CYCLE + ARS + Lomb-Scargle). Requiere R instalado con el
    paquete MetaCycle.
-2. **02 — Clasificación**: diez modelos de clasificacion (AdaBoost,
+2. **— Clasificación**: diez modelos de clasificacion (AdaBoost,
    RandomForest, GradientBoosting, ExtraTrees, SVM, KNN, regresión logística,
    MLP, XGBoost, LightGBM) para predecir `reporter`, `genome` y `medium` a
    partir de los parámetros extraidos.
-3. **03 — Predicción multi-output**: extiende el problema a la prediccion
+3. **— Predicción multi-output**: extiende el problema a la prediccion
    simultanea de seis descriptores de ritmicidad en fase de free-run
    (`MultiOutputClassifier`), con seleccion de variables por informacion
    mutua, validacion cruzada y analisis SHAP de interpretabilidad.
